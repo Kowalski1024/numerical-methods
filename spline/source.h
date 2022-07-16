@@ -1,5 +1,3 @@
-// Tomasz Wojnar
-
 #ifndef SPLINE_SOURCE_H
 #define SPLINE_SOURCE_H
 

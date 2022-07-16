@@ -1,5 +1,3 @@
-// Tomasz Wojnar
-
 #include <iostream>
 #include "source.h"
 

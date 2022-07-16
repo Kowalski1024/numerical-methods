@@ -1,5 +1,3 @@
-// Tomasz Wojnar
-
 #include <iostream>
 #include <cmath>
 #include <vector>
