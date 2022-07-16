@@ -1,4 +1,3 @@
-// Tomasz Wojnar
 #include <iostream>
 #include <vector>
 
